@@ -34,7 +34,7 @@ export default {
 <style>  
 h3 {  
   color: rgb(26, 24, 24);  
-  background-color: rgb(203, 156, 229);  
+  background-color: hsl(7, 26%, 74%);  
   border-radius: 15px;  
   padding: 10px;  
   text-align: center;
