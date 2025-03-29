@@ -2,7 +2,7 @@
 import { ref } from 'vue'  
 defineProps
 ({
-  nombre:String
+  edad:String
 })
 
 </script>  
@@ -12,7 +12,7 @@ defineProps
 </style>  
 
 <template>  
-   <h1>{{ nombre="luz maria"}}</h1>
+  <h6>Soy el componente hijo 1</h6>
+  <p>{{ edad }}</p>
 </template> 
 <style scoped></style> 
-
